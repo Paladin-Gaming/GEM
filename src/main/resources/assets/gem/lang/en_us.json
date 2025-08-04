@@ -1,0 +1,13 @@
+{
+  "itemGroup.gem": "Example Mod Tab",
+  "block.gem.example_block": "Example Block",
+  "item.gem.example_item": "Example Item",
+
+  "gem.configuration.title": "GEM Configs",
+  "gem.configuration.section.gem.common.toml": "GEM Configs",
+  "gem.configuration.section.gem.common.toml.title": "GEM Configs",
+  "gem.configuration.items": "Item List",
+  "gem.configuration.logDirtBlock": "Log Dirt Block",
+  "gem.configuration.magicNumberIntroduction": "Magic Number Text",
+  "gem.configuration.magicNumber": "Magic Number"
+}
